@@ -11,3 +11,7 @@
   - [ ] Pitfalls (this would have to be found out through experimentation)
 - [ ] Examples
 - [ ] Option for searching
+
+# Immediate TODO
+
+- [ ] Go through the component and /app/tweens/t1/page.js
